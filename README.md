@@ -14,7 +14,7 @@ O projeto consiste em um site simples de apenas 1 página para uma empresa fict�
 
 <h2>Como acessar o projeto?</h2>
 
-Para acessa-lo você precisa baixar o arquivo .zip desse repositório, depois de instalado basta apenas clicar no arquivo index.html e abri-lo no navegador de sua preferência.
+Acesse o projeto pelo link: https://zsxxu.github.io/7-Days-of-Code-Alura-HTML-E-CSS/
 
 <h2>Autores</h2>
 
