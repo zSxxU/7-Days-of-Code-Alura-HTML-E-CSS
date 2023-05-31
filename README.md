@@ -2,7 +2,7 @@
 
 <h2>Descrição do projeto</h2>
 
-Esse projeto foi proposto pelo curso: "A partir do zero: iniciante em programação", da Alura, com o inutuito de praticar os conhecimentos em HTML e CSS adquiridos durante o curso.
+Esse projeto foi proposto pelo curso: "A partir do zero: iniciante em programação", da Alura, com o intuito de praticar os conhecimentos em HTML e CSS adquiridos durante o curso.
 
 O projeto consiste em um site simples de apenas 1 página para uma empresa fictícia de tecnologia apelidada de "Optimus Tech"
 
